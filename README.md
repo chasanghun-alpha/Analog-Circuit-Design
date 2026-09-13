@@ -4,6 +4,8 @@
 **기간**: ~2025.11 (제출일 2025.11.26)
 **사용 도구**: LTspice
 
+📄 원본 보고서: [docs/Multistage_Amplifier_Design_Report.pdf](docs/Multistage_Amplifier_Design_Report.pdf)
+
 ## 개요
 Differential input / single-ended output 구조의 2-stage MOSFET 증폭기 설계
 Gain, 대역폭, 입력 저항, 전력 사양을 LTspice 시뮬레이션으로 만족함
